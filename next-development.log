@@ -1,0 +1,7 @@
+[00:00:00.837] Server  LOG      ✓ Ready in 630ms
+[00:00:25.104] Server  LOG      ○ Compiling / ...
+[00:00:25.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:25.720] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:22.881] Server  LOG      ✓ Compiled in 92ms
+[00:06:45.792] Server  LOG      ✓ Compiled in 114ms
+[00:06:46.172] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
